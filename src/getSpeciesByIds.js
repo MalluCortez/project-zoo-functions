@@ -4,4 +4,5 @@ function getSpeciesByIds(ids) {
  
 }
 
+getSpeciesByIds()
 module.exports = getSpeciesByIds;
